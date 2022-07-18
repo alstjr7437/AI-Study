@@ -1,0 +1,7 @@
+Sd associaition 윈도우용 받기 
+sd카드 포맷 집 실행 실행하기 
+나오는 창 볼륨레이블 > 제슨나노
+
+nvidia jetpack 설치
+
+balenaetcher 설치 집 파일 열기 > 타겟 하고 > ㄱㄱ
